@@ -1,0 +1,116 @@
+.main-div{
+    background-color: rgb(255, 255, 255);
+    height: 120%;
+    width: 100%;
+}
+
+.pg1-search{
+    margin-right: 400px;
+    width: 400px;
+}
+
+.dress-and-content{
+    background-color: red;
+    height: 280vh;
+}
+
+.dress{
+    height: 280vh;
+    
+    
+}
+
+.dress-content{ 
+    height: 280vh;
+    
+}
+
+.dress-photos{
+    height: 200px;
+}
+
+.dress-cols{ margin-left: 0px;
+    height: 600px
+   
+}
+
+
+.size{
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(197, 195, 195);
+  border-radius: 80px;
+  height: 50px;
+  width: 50px;
+  color: black;
+  margin-right: 8px;
+}
+
+.size:hover{
+    background-color: #E72744;
+    border: none;
+    }
+
+.wishlist:hover{
+    background-color: #E72744;
+}
+
+.add-to-bag:hover{
+    background-color: #4f4f4d;
+    color: rgb(255, 255, 255);
+}
+
+.kiara:hover{transform: scale(1.1);
+    z-index: 1;
+    
+}
+
+.buttonss{
+    margin-top: 20px;
+}
+
+.add-to-bag{ border: none;
+    border-radius: 5px;
+    background-color: #E72744;
+    height: 40px;
+    width: 200px;
+}
+
+.wishlist {
+    border: 1px solid rgb(146, 144, 144);
+    border-radius: 5px;
+    background-color: white;
+    height: 40px;
+    width: 200px;
+    color: black;
+}
+
+.cloth-detail{
+    margin-top: 50px;
+}
+
+.pin-code{
+    margin-top: -10px;
+}
+
+
+
+.similar-products{
+    margin-top: 300px;
+}
+
+.kiara-cards{
+    margin-right: 5px;
+    width: 200px
+}
+
+
+.similar-items{
+    width: 1600px;
+    margin-left: 0px
+}
+
+/* Footer */
+
+.footer { background-color:;
+    height: 50vh;
+}

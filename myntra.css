@@ -1,0 +1,56 @@
+.main-div{
+    background-color: rgb(252, 252, 252);
+    height: 100vh;
+    width: 100%;
+}
+
+.pg1-search{
+    margin-right: 400px;
+    width: 400px;
+}
+
+.deal-of-the-day{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.categories-img{
+    border-radius: 80px;
+}
+
+.top-picks-card{
+    height: 210px;
+}
+
+.contentsssssss{
+    align-content: flex-end;
+}
+
+
+.first-cards{
+   display: flex;
+   border-radius: 0px;
+   height: 250px;
+}
+
+.first-card{
+    padding-top: -20px;
+    border-radius: 0px;
+}
+
+.card-img-top{
+    border-radius: 0px;
+}
+
+.second-cards{
+    margin-left: -50px ;
+}
+
+.circle-card{
+    border: none;
+}
+
+
+.last-cards{ height: 260px;
+
+}
